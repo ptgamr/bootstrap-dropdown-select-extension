@@ -10,7 +10,11 @@ Ussage
  - After the item is selected, it will has the class `selected`, the menu will be updated
   with the selected value
  - `selected.bs.dropdown` event will be triggered after selection is made
-  
+
+Article
+=======
+Please refer to this article on [My Blog](http://trinhtrunganh.com/extends-twitter-bootstrap-dropdown-to-act-like-a-selectbox/)
+
 Example
 =======
   ```html
@@ -25,8 +29,4 @@ Example
       </ul>
     </div>
   ```
-  
-  Article
-  =======
-  
-  Please refer to this article on [My Blog](http://trinhtrunganh.com/extends-twitter-bootstrap-dropdown-to-act-like-a-selectbox/)
+
