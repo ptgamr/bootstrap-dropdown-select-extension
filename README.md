@@ -25,3 +25,8 @@ Example
       </ul>
     </div>
   ```
+  
+  Article
+  =======
+  
+  Please refer to this article on [My Blog](http://trinhtrunganh.com/extends-twitter-bootstrap-dropdown-to-act-like-a-selectbox/)
